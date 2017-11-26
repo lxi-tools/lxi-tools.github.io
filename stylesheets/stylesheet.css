@@ -193,7 +193,9 @@ code {
 }
 
 pre {
-  padding: 20px;
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
   background: #303030;
   color: #f2f2f2;
   text-shadow: none;
