@@ -106,6 +106,9 @@ header h2 {
   margin-left: 95px;
 }
 
+a {
+  outline: none;
+}
 a.button {
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;                     
